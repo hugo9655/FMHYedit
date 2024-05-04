@@ -485,6 +485,28 @@
 
 ***
 
+## Historical Maps
+
+* [Historical Maps](https://history-maps.com/)
+* [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
+* [Geacron](http://geacron.com/)
+* [Cronobook](https://cronobook.com/)
+* [EuraAtlas](https://euratlas.com/)
+* [Historical City Maps]( https://redd.it/61fdp6)
+* [GeoGarage](https://rumsey.geogarage.com/index.html)
+* [DavidRumsey](https://www.davidrumsey.com/)
+* [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
+* [Loc Maps](https://www.loc.gov/collections/general-maps/)
+* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
+
+* [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
+* [Historic Borders](https://historicborders.app/) - Historic Borders Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
+* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+
+***
+
 ## Image Download Extensions
 
 [Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
