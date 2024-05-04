@@ -485,28 +485,6 @@
 
 ***
 
-## Historical Maps
-
-* [Historical Maps](https://history-maps.com/)
-* [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
-* [Geacron](http://geacron.com/)
-* [Cronobook](https://cronobook.com/)
-* [EuraAtlas](https://euratlas.com/)
-* [Historical City Maps]( https://redd.it/61fdp6)
-* [GeoGarage](https://rumsey.geogarage.com/index.html)
-* [DavidRumsey](https://www.davidrumsey.com/)
-* [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
-* [Loc Maps](https://www.loc.gov/collections/general-maps/)
-* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
-
-* [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
-* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
-* [Historic Borders](https://historicborders.app/) - Historic Borders Map
-* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
-
-***
-
 ## Image Download Extensions
 
 [Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
@@ -864,13 +842,96 @@
 
 ***
 
-## Satellite & Street View Maps
+## Misc Maps
+
+### Train Maps
+
+Train Maps:
+
+* [OpenRailwayMap](https://www.openrailwaymap.org/)
+* [Trains.fyi](https://trains.fyi/)
+* [AmtrakExplorer](https://amtrakexplorer.com/)
+
+Country Train Maps:
+
+* [Switzerland](https://maps.vasile.ch/transit-sbb/)
+* [AUS / NZ](https://anytrip.com.au/)
+* [Russia](https://rasp.yandex.ru/map/trains/)
+* [Finland](https://www.vr.fi/en/live-train-tracker-map)
+* [Belgium](https://trainmap.belgiantrain.be/)
+* [UK](https://www.map.signalbox.io/)
+* [Hungary](http://vonatinfo.mav-start.hu/)
+* [India](https://railradar.railyatri.in/)
+* [Netherlands](https://treinposities.nl/)
+
+* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+
+### Historical Maps
+
+Historical Map Archives:
+
+* 🌐 **[Historical Maps](https://history-maps.com/)**
+* [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
+* [Geacron](http://geacron.com/)
+* [Cronobook](https://cronobook.com/)
+* [EuraAtlas](https://euratlas.com/)
+* [Historical City Maps]( https://redd.it/61fdp6)
+* [GeoGarage](https://rumsey.geogarage.com/index.html)
+* [DavidRumsey](https://www.davidrumsey.com/)
+* [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
+* [Loc Maps](https://www.loc.gov/collections/general-maps/)
+* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
+
+* [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
+* [Historic Borders](https://historicborders.app/) - Historic Borders Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
+* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+
+### Satellite & Street View Maps (organize)
+
+Satellite:
+
+
+Street view:
+
+
+taken from Maps section:
+
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/)
+* [KartaView](https://kartaview.org/landing)
+* [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor)
+* [Open Infrastructure Map](https://openinframap.org/)
+* [FacilMap](https://facilmap.org/)
+* [OutdoorMaps](https://outdoormaps.eu/)
+* [OSMapp](https://osmapp.org/)
+* [ABC Map](https://abc-map.fr/)
+* [Mapillary](https://www.mapillary.com/)
+
+* [Map Crunch](https://www.mapcrunch.com/) - Random Street View
+* [RandomStreetView](https://randomstreetview.com/) - Random Street View
+
+original storage section:
 
 * ⭐ **[OrganicMaps](https://organicmaps.app/)**
 * ⭐ **[DDG Maps](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**
 * ⭐ **[Soar](https://soar.earth/)**
 
-[Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Satellites.pro](https://satellites.pro/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/), [EarthData](https://search.earthdata.nasa.gov/search), [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php##homepage), [Qwant](https://www.qwant.com/maps/), [city2map](https://www.city2map.com/), [MapQuest](https://www.mapquest.com/), [InstantStreetView](https://www.instantstreetview.com/), [ShowMyStreet](https://showmystreet.com/)
+* [Yandex](https://yandex.com/maps/)
+* [Google](https://www.google.com/maps/)
+* [Satellites.pro](https://satellites.pro/)
+* [Bing](https://www.bing.com/maps)
+* [Wego.Here](https://wego.here.com/)
+* [Terrafly](http://www.terrafly.com/)
+* [EarthExplorer](https://earthexplorer.usgs.gov/)
+* [EarthData](https://search.earthdata.nasa.gov/search)
+* [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php##homepage)
+* [Qwant](https://www.qwant.com/maps/)
+* [city2map](https://www.city2map.com/)
+* [MapQuest](https://www.mapquest.com/)
+* [InstantStreetView](https://www.instantstreetview.com/)
+* [ShowMyStreet](https://showmystreet.com/)
 
 ***
 
