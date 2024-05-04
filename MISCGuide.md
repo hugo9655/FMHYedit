@@ -266,35 +266,17 @@
 * [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
 * [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
-* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
-* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
-* [Windy](https://www.windy.com/) - Wind Map
-* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
-* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
-* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
-* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
 * [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
 * [MacroStrat](https://macrostrat.org/) - Geological Data Maps
-* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
-* [River Runner](https://river-runner.samlearner.com/) - River Map / [3D Map](https://river-runner-global.samlearner.com/)
-* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
-* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
-* [Terrain Party](https://terrain.party/) - Terrain Height Map
-* [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
-* [topo maps](https://onlinetopomaps.net/) - Topographic Maps
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
-* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
-* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
-* [Kepler](https://kepler.gl/) - Geospatial Analysis Tool / [GitHub](https://github.com/keplergl/kepler.gl)
+* [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
@@ -305,22 +287,9 @@
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
-* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
-* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
-* [Waqi.info](https://waqi.info/) - Air Pollution Map
-* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
-* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
-* [PowerOutage](https://poweroutage.us/) - Power Outage Map
-* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
-* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
-* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
-* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
-* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
 * [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map

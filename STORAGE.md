@@ -844,6 +844,50 @@
 
 ## Misc Maps
 
+### Weather / Climate / Disaster / Pollution Maps
+
+Weather:
+
+* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
+* [Windy](https://www.windy.com/) - Wind Map
+* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
+* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
+* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
+
+Climate:
+
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - General Climate Maps
+* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
+* [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
+* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
+* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
+* [Terrain Party](https://terrain.party/) - Terrain Height Map
+* [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
+* [topo maps](https://onlinetopomaps.net/) - Topographic Maps
+* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
+* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
+
+Disaster:
+
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+
+Pollution:
+
+* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
+* [Waqi.info](https://waqi.info/) - Air Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
+* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
+* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
+
 ### Train Maps
 
 Train Maps:
@@ -866,6 +910,7 @@ Country Train Maps:
 
 * [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 
 ### Historical Maps
 
