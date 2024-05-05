@@ -246,7 +246,6 @@
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
-* [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
@@ -283,9 +282,11 @@
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
-* [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
-* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
+* [MoveMap](https://www.movemap.io/) - North America Property Costs Map
+* [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
+* [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 
 ## ▷ Geology Maps:
 
