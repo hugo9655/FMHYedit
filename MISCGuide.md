@@ -243,8 +243,6 @@
 # ► Maps
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
-* ↪️ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* ↪️ **[Historical Maps]()**
 * ⭐ **[Routora](https://chromewebstore.google.com/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
 * [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
@@ -253,11 +251,11 @@
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
-* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
+* [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
 * [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
-* [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
+* [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
@@ -270,7 +268,7 @@
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
-* [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
+* [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
@@ -278,21 +276,21 @@
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
+
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
+
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
-* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
-* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
 ## ▷ Geography Maps:
@@ -310,8 +308,8 @@
 
 ## ▷ Geology Maps:
 
-* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - General Climate Maps
+* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
 * [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
@@ -320,9 +318,13 @@
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
 * [topo maps](https://onlinetopomaps.net/) - Topographic Maps
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 
-Weather:
+## ▷ Weather:
 
+* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
 * [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
 * [Windy](https://www.windy.com/) - Wind Map
@@ -331,19 +333,15 @@ Weather:
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 
-
-Disaster:
+## ▷ Disaster:
 
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 
-Pollution:
+## ▷ Pollution:
 
-* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
 * [Waqi.info](https://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
 * [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
@@ -379,7 +377,6 @@ Country Train Maps:
 
 Historical Map Archives:
 
-* 🌐 **[Historical Maps](https://history-maps.com/)**
 * [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
 * [Geacron](http://geacron.com/)
 * [Cronobook](https://cronobook.com/)
@@ -397,7 +394,7 @@ Historical Map Archives:
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
 * [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
 
-### Satellite & Street View Maps (organize)
+### Satellite & Street View Maps (turn into normal/general maps?)
 
 Satellite:
 
@@ -419,6 +416,7 @@ taken from Maps section:
 
 * [Map Crunch](https://www.mapcrunch.com/) - Random Street View
 * [RandomStreetView](https://randomstreetview.com/) - Random Street View
+* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 
 original storage section:
 
