@@ -243,30 +243,22 @@
 # ► Maps
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
-* ⭐ **[Routora](https://chromewebstore.google.com/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
-* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
+
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
-* [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
 * [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
-* [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
-* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
-* [aprs.fi](https://aprs.fi/) - Google Maps APRS
 * [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
@@ -274,21 +266,14 @@
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
-* [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 
-* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
-* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [Wigle](https://wigle.net/) - Wireless Network Mapping
-* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
-* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
+* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
 
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
-* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
@@ -303,8 +288,8 @@
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
 * [Aporee](https://aporee.org/) - World Map of Sounds
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
-* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
 * [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
 
 ## ▷ Geology Maps:
 
@@ -321,8 +306,9 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Weather:
+## ▷ Weather (merge into one Climate section?):
 
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
 * [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
@@ -333,14 +319,7 @@
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 
-## ▷ Disaster:
-
-* [PowerOutage](https://poweroutage.us/) - Power Outage Map
-* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
-* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
-* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
-
-## ▷ Pollution:
+## ▷ Pollution (merge into one Climate section?):
 
 * [Waqi.info](https://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
@@ -349,31 +328,39 @@
 * [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 
-### Train Maps (turn into Transport Maps?)
+## ▷ Infrastructure Maps:
 
-Train Maps:
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
+* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
+* [Wigle](https://wigle.net/) - Wireless Network Mapping
+* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
-* [OpenRailwayMap](https://www.openrailwaymap.org/)
-* [Trains.fyi](https://trains.fyi/)
-* [AmtrakExplorer](https://amtrakexplorer.com/)
+## ▷ Transport Maps
 
-Country Train Maps:
+(separate railway maps and tracker maps?)
 
-* [Switzerland](https://maps.vasile.ch/transit-sbb/)
-* [AUS / NZ](https://anytrip.com.au/)
-* [Russia](https://rasp.yandex.ru/map/trains/)
-* [Finland](https://www.vr.fi/en/live-train-tracker-map)
-* [Belgium](https://trainmap.belgiantrain.be/)
-* [UK](https://www.map.signalbox.io/)
-* [Hungary](http://vonatinfo.mav-start.hu/)
-* [India](https://railradar.railyatri.in/)
-* [Netherlands](https://treinposities.nl/)
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
+* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
+* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
+* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
+* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
+* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
+* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
 
 * [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 
-### Historical Maps
+* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
+
+### Historic Maps
 
 Historical Map Archives:
 
@@ -393,6 +380,11 @@ Historical Map Archives:
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
 * [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+
+* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
+* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
+
 
 ### Satellite & Street View Maps (turn into normal/general maps?)
 
@@ -417,6 +409,8 @@ taken from Maps section:
 * [Map Crunch](https://www.mapcrunch.com/) - Random Street View
 * [RandomStreetView](https://randomstreetview.com/) - Random Street View
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
+* [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
+* [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
 
 original storage section:
 
@@ -426,6 +420,9 @@ original storage section:
 
 * [Yandex](https://yandex.com/maps/)
 * [Google](https://www.google.com/maps/)
+* [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
+* [aprs.fi](https://aprs.fi/) - Google Maps APRS
+
 * [Satellites.pro](https://satellites.pro/)
 * [Bing](https://www.bing.com/maps)
 * [Wego.Here](https://wego.here.com/)
