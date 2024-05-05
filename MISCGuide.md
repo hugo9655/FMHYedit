@@ -244,7 +244,6 @@
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
-
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
@@ -267,9 +266,7 @@
 * [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
-
 * [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
-
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
@@ -282,18 +279,17 @@
 
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
-* [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
+* [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
-* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
-* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
-* [Aporee](https://aporee.org/) - World Map of Sounds
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
+* [Aporee](https://aporee.org/maps/) - World Map of Sounds
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
 * [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
 
 ## ▷ Geology Maps:
 
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - General Climate Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [Copernicus Browser](https://browser.dataspace.copernicus.eu/) - General Climate Maps
 * [MacroStrat](https://macrostrat.org/) - Geological Data Maps
 * [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
@@ -301,7 +297,7 @@
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
 * [Terrain Party](https://terrain.party/) - Terrain Height Map
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
-* [topo maps](https://onlinetopomaps.net/) - Topographic Maps
+* [Online Topo Maps](https://onlinetopomaps.net/) - Topographic Maps
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
