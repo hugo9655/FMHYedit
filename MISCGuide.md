@@ -264,10 +264,8 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
-* [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
 * [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
-* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -279,31 +277,169 @@
 * [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
-* [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
-* [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
-* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
-* [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
-* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
-* [Aporee](https://aporee.org/) - World Map of Sounds
-* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+
+## ▷ Geography Maps:
+
+* [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
+* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
+* [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
+* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
+* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
+* [Aporee](https://aporee.org/) - World Map of Sounds
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
+* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
+
+## ▷ Geology Maps:
+
+* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - General Climate Maps
+* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
+* [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
+* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
+* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
+* [Terrain Party](https://terrain.party/) - Terrain Height Map
+* [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
+* [topo maps](https://onlinetopomaps.net/) - Topographic Maps
+* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
+
+Weather:
+
+* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
+* [Windy](https://www.windy.com/) - Wind Map
+* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
+* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
+* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
+
+
+Disaster:
+
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+
+Pollution:
+
+* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
+* [Waqi.info](https://waqi.info/) - Air Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
+* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
+* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
+
+### Train Maps (turn into Transport Maps?)
+
+Train Maps:
+
+* [OpenRailwayMap](https://www.openrailwaymap.org/)
+* [Trains.fyi](https://trains.fyi/)
+* [AmtrakExplorer](https://amtrakexplorer.com/)
+
+Country Train Maps:
+
+* [Switzerland](https://maps.vasile.ch/transit-sbb/)
+* [AUS / NZ](https://anytrip.com.au/)
+* [Russia](https://rasp.yandex.ru/map/trains/)
+* [Finland](https://www.vr.fi/en/live-train-tracker-map)
+* [Belgium](https://trainmap.belgiantrain.be/)
+* [UK](https://www.map.signalbox.io/)
+* [Hungary](http://vonatinfo.mav-start.hu/)
+* [India](https://railradar.railyatri.in/)
+* [Netherlands](https://treinposities.nl/)
+
+* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
+
+### Historical Maps
+
+Historical Map Archives:
+
+* 🌐 **[Historical Maps](https://history-maps.com/)**
+* [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
+* [Geacron](http://geacron.com/)
+* [Cronobook](https://cronobook.com/)
+* [EuraAtlas](https://euratlas.com/)
+* [Historical City Maps]( https://redd.it/61fdp6)
+* [GeoGarage](https://rumsey.geogarage.com/index.html)
+* [DavidRumsey](https://www.davidrumsey.com/)
+* [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
+* [Loc Maps](https://www.loc.gov/collections/general-maps/)
+* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
+
+* [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
+* [Historic Borders](https://historicborders.app/) - Historic Borders Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
+* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+
+### Satellite & Street View Maps (organize)
+
+Satellite:
+
+
+Street view:
+
+
+taken from Maps section:
+
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/)
+* [KartaView](https://kartaview.org/landing)
+* [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor)
+* [Open Infrastructure Map](https://openinframap.org/)
+* [FacilMap](https://facilmap.org/)
+* [OutdoorMaps](https://outdoormaps.eu/)
+* [OSMapp](https://osmapp.org/)
+* [ABC Map](https://abc-map.fr/)
+* [Mapillary](https://www.mapillary.com/)
+
+* [Map Crunch](https://www.mapcrunch.com/) - Random Street View
+* [RandomStreetView](https://randomstreetview.com/) - Random Street View
+
+original storage section:
+
+* ⭐ **[OrganicMaps](https://organicmaps.app/)**
+* ⭐ **[DDG Maps](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**
+* ⭐ **[Soar](https://soar.earth/)**
+
+* [Yandex](https://yandex.com/maps/)
+* [Google](https://www.google.com/maps/)
+* [Satellites.pro](https://satellites.pro/)
+* [Bing](https://www.bing.com/maps)
+* [Wego.Here](https://wego.here.com/)
+* [Terrafly](http://www.terrafly.com/)
+* [EarthExplorer](https://earthexplorer.usgs.gov/)
+* [EarthData](https://search.earthdata.nasa.gov/search)
+* [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php##homepage)
+* [Qwant](https://www.qwant.com/maps/)
+* [city2map](https://www.city2map.com/)
+* [MapQuest](https://www.mapquest.com/)
+* [InstantStreetView](https://www.instantstreetview.com/)
+* [ShowMyStreet](https://showmystreet.com/)
 
 ***
 
