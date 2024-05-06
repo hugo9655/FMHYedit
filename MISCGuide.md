@@ -225,7 +225,6 @@
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
-* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 
 ## ▷ Flights
 
@@ -237,6 +236,7 @@
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](https://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
+* [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
 
 ***
 
@@ -249,14 +249,13 @@
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
+* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
-* [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
-* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
@@ -288,10 +287,11 @@
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 
-## ▷ Geology Maps:
+## ▷ Geology Maps: (needs checking)
 
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [Copernicus Browser](https://browser.dataspace.copernicus.eu/) - General Climate Maps
-* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [Earth Now](https://climate.nasa.gov/earth-now/) - General Climate Maps
+* [Macrostrat](https://macrostrat.org/) - Geological Data Map
+
 * [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
@@ -305,7 +305,7 @@
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Weather (merge into one Climate section?):
+## ▷ Climate Maps:
 
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
 * [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
@@ -315,9 +315,6 @@
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
-
-## ▷ Pollution (merge into one Climate section?):
-
 * [Waqi.info](https://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
 * [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
@@ -325,7 +322,7 @@
 * [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 
-## ▷ Infrastructure Maps:
+## ▷ Infrastructure Maps: (needs checking)
 
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
@@ -356,6 +353,7 @@
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
+* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 
 ### Historic Maps
 
@@ -463,8 +461,6 @@ original storage section:
 * [FinURLs](https://finurls.com/) or [WOC Street](https://wocstreet.com/ai-news) - Finance & Business News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](https://www.planecrashinfo.com/) - Plane Crash Reports
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/), or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
