@@ -277,9 +277,7 @@
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
-
-* [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
-
+* [MarineTraffic](https://www.marinetraffic.com/) - Live Ship Trackers
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
@@ -302,11 +300,11 @@
 * [topographic-map](https://en-gb.topographic-map.com/) - Topographic Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Climate Maps:
+## ▷ Climate Maps: (needs checking)
 
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [Earth Now](https://climate.nasa.gov/earth-now/) - General Climate Maps
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
