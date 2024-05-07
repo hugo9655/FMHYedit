@@ -250,7 +250,6 @@
 * [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
-* [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
@@ -261,10 +260,12 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
-* [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
+
+* [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
 * [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
+
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
@@ -286,27 +287,26 @@
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
+* [Native Land](https://native-land.ca/) - Indigenous Territory Map
 
-## ▷ Geology Maps: (needs checking)
+## ▷ Geology Maps:
 
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [Earth Now](https://climate.nasa.gov/earth-now/) - General Climate Maps
 * [Macrostrat](https://macrostrat.org/) - Geological Data Map
-
-* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
-* [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - River Map
+* [Fishermap](https://usa.fishermap.org/depth-map/) or [Bathymetric Data Viewer](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
+* [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - Raindrop Tracking Map
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
-* [Terrain Party](https://terrain.party/) - Terrain Height Map
-* [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
-* [Online Topo Maps](https://onlinetopomaps.net/) - Topographic Maps
+* [PeakFinder](https://www.peakfinder.org/) - Mountain Names Map
+* [topographic-map](https://en-gb.topographic-map.com/) - Topographic Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
-* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
+* [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
 ## ▷ Climate Maps:
 
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [Earth Now](https://climate.nasa.gov/earth-now/) - General Climate Maps
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
 * [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
@@ -344,11 +344,9 @@
 * [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
 * [RailRadar](https://railradar.railyatri.in/) - India Railway Map
 * [Train positions](https://treinposities.nl/) - Netherlands Railway Map
-
 * [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-
 * [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
