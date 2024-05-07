@@ -293,7 +293,7 @@
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [FileDitch](https://fileditch.com/) - 15GB / Forever / [Note](https://ibb.co/F0gTxNC)
+* [FileDitch](https://fileditch.com/) - 1GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
@@ -313,7 +313,7 @@
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
 * [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
 * [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
-* [filelu](https://filelu.com/) - ?GB / 10 days
+* [filelu](https://filelu.com/) - 15GB / 10 days
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
@@ -337,12 +337,12 @@
 
 ## ▷ P2P File Transfer
 
-* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
+* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
+* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
 * ⭐ **[Tailscale](https://tailscale.com/)**
-* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [pairdrop](https://pairdrop.net/) or [Snapdrop](https://snapdrop.net/)
