@@ -232,6 +232,8 @@
 # ► Maps
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
+* 🌐 **[ArcGIS Living Atlas](https://livingatlas.arcgis.com/)**, [Cool Maps](https://coolmaps.esri.com/) - Map Indexes
+* 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
