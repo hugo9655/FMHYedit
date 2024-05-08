@@ -266,7 +266,7 @@
 * [tornado.live](https://tornado.live/) - Real-time US Severe Weather Alerts Map
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
-* [Blitzortung](https://map.blitzortung.org/) - Real-time Lightning and Thunderstorms Map
+* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Real-time Lightning and Thunderstorms Map
 
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 * [Waqi.info](https://waqi.info/) - Air Pollution Map
