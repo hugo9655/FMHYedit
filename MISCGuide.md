@@ -243,7 +243,7 @@
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
-* [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps
+* [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
@@ -254,10 +254,27 @@
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
-* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+
+## ▷ Climate / Weather Maps: (needs checking)
+
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/), [Windy](https://www.windy.com/), [Earth](https://earth.nullschool.net/), [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - General Weather / Climate Maps 
+* [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
+* [tornado.live](https://tornado.live/) - Real-time US Severe Weather Alerts Map
+* [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+
+* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
+* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
+* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
+* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
+* [Waqi.info](https://waqi.info/) - Air Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
+* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
+* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 
 ## ▷ Geography Maps:
 
@@ -290,24 +307,6 @@
 * [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
-
-## ▷ Climate Maps: (needs checking)
-
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [Earth Now](https://climate.nasa.gov/earth-now/) - General Climate Maps
-* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, and Ocean Conditions
-* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
-* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
-* [Windy](https://www.windy.com/) - Wind Map
-* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
-* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
-* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
-* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
-* [Waqi.info](https://waqi.info/) - Air Pollution Map
-* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
-* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
-* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
-* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
-* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 
 ## ▷ Infrastructure Maps: (needs checking)
 
