@@ -247,6 +247,9 @@
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
+* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
+* [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
+* [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
@@ -400,6 +403,7 @@ taken from Maps section:
 * [RandomStreetView](https://randomstreetview.com/) - Random Street View
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
+* [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
 
 original storage section:
 
@@ -409,6 +413,7 @@ original storage section:
 
 * [Yandex](https://yandex.com/maps/)
 * [Google](https://www.google.com/maps/)
+* [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
 
 * [Satellites.pro](https://satellites.pro/)
