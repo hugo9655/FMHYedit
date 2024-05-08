@@ -242,7 +242,7 @@
 * [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
 * [VES](https://github.com/VincentEngel/VES-Image-Compare) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) - Background Removers
-* [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
+* [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam without Google Play 
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
 * [TimeLapseCam](https://github.com/woheller69/TimeLapseCamera) - Timelapse Camera
 * [Colorize Images](https://rentry.co/FMHYBase64#colorize-images), [Phototune](https://rentry.co/FMHYBase64#phototune) or [Remini](https://rentry.co/FMHYBase64#remini) - Colorize Images
@@ -330,7 +330,7 @@
 * [Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
-* [ADB OTG](https://play.google.com/store/apps/details?id=com.htetznaing.adbotg) - Run ADB Commands w/o Computer or Root
+* [ADB OTG](https://play.google.com/store/apps/details?id=com.htetznaing.adbotg) - Run ADB Commands without Computer or Root
 * [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
 
 ***
@@ -363,21 +363,18 @@
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT), [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
-* [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
+* [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Using Android as Mouse / Touch Pad
 * [Listy](https://listy.is/) - Create Lists of Anything
-* [Deskreen](https://deskreen.com/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) / [GitHub](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
-* [Haven](https://guardianproject.github.io/haven/) - Motion Detector
 * [Sensify](https://junkielabs.in/products/apps/sensify) - Sensor Visualizers
 * [Unified Remote](https://www.unifiedremote.com/) - Universal Remote
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
-* [Get Unstuck](https://socratic.org/) - Homework Answers / Help
 
 ***
 
@@ -508,7 +505,7 @@
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
 * [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
-* [Nekogram](https://nekogram.app/), [AyuGram](https://t.me/ayugramchat), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/), [TelegramAndroid](https://github.com/forkgram/TelegramAndroid) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
+* [Nekogram](https://nekogram.app/), [AyuGram](https://t.me/ayugramchat), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [FouadMODS](https://t.me/FouadMODS) - Modded WhatsApp
 * [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Numberless WhatsApp Chat
@@ -792,7 +789,6 @@
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://xfangfang.github.io/Macast/) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
 * [PopcornTime](https://popcorn-time.site) / [GitHub](https://github.com/popcorn-official/popcorn-android) - Torrent Streaming / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
-* [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [FilmPlus](https://filmplus.app/) - Movies / TV
 * [TeaTV](https://rentry.co/FMHYBase64#teatv) - Movies / TV
 * [Movies Cave](https://rentry.co/FMHYBase64#movies-cave-app) - Movies / TV
@@ -820,6 +816,7 @@
 * [Kaguya App](https://github.com/hoangvu12/kaguya-app/)
 * [Kazahana](https://github.com/yukino-org/kazahana)
 * [AniLab](https://anilab.to/)
+* [Anikin](https://github.com/jerry08/Anikin)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
@@ -847,7 +844,7 @@
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 * [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
+* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk), [revanced-apks](https://github.com/revanced-apks/build-apps/releases) / [Telegram](https://t.me/revanced_apks_web), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
@@ -906,7 +903,7 @@
 * [Noteful](https://apps.apple.com/in/app/noteful-note-taking-on-pdf/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
-* [Enmity](https://github.com/enmity-mod/enmity) - Discord Client w/ Addons + Themes / [Discord](https://discord.gg/rMdzhWUaGT) 
+* [Enmity](https://github.com/enmity-mod/enmity) - Discord Client with Addons + Themes / [Discord](https://discord.gg/rMdzhWUaGT) 
 * [Gear4](https://gear4.app/) - Browsers
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps
@@ -916,7 +913,7 @@
 * [PureKFD](https://github.com/PureKFD/PureKFD) or [Misaka](https://github.com/straight-tamago/misaka) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - Icon Themes & Widgets
-* [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons Without Shortcuts
+* [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Siri Shortcuts
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - iOS Widgets
 * [Video Saver Pro](https://apps.apple.com/us/app/video-saver-pro-cloud-drive/id1297144302) - Video Downloader
@@ -1085,6 +1082,7 @@
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+* [AppSnake](https://appsnake.cypwn.xyz/) - IAP Database
 
 ***
 
@@ -1128,7 +1126,7 @@
 * [FlixHub](https://rentry.co/FMHYBase64#flixhub) or [MegaFlix](https://rentry.co/FMHYBase64#megaflix) - Movies / TV / [How-to Use](https://i.ibb.co/fqB9bsQ/zD6MAE0.jpg)
 * [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
-* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/ Adblock
+* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser with Adblock
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - Free CW Shows
 * [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama

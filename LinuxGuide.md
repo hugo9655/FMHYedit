@@ -47,7 +47,7 @@
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
@@ -407,7 +407,7 @@ Linux Gaming Guide
 
 ## ▷ Terminal / Shell
 
-* 🌐 **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/) or [AltBox](https://altbox.dev/) - Linux Shell Resources
+* 🌐 **[Awesome Shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/) or [AltBox](https://altbox.dev/) - Linux Shell Resources
 * 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** or [TerminalTrove](https://terminaltrove.com/) - List of TUIs
 * ↪️ **[Linux Shell Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
@@ -521,7 +521,7 @@ Linux Gaming Guide
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - macOS Bash Commands
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
-* [Orion](https://browser.kagi.com/) - Lightweight Browser w/ Chrome & Firefox Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
+* [Orion](https://browser.kagi.com/) - Lightweight Browser with Chrome & Firefox Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) or [PyPush](https://github.com/JJTech0130/pypush) /[Discord](https://discord.gg/BVvNukmfTC) - iMessage Clients

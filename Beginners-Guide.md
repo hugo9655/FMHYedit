@@ -116,7 +116,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Streaming
 
-**[movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension) / [NunFlix](https://nunflix.com/) / [Binged](https://binged.live/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension) / [Braflix](https://www.braflix.video/) / [Binged](https://binged.live/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -131,7 +131,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ### Downloading
 
 **[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
-**[OlaMovies](https://olamovies.life/)** - Fast video downloads
+**[Pahe](https://pahe.ink/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide

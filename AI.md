@@ -84,7 +84,6 @@
 * [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
-* [Epigon](https://epigon.ai/) - Roleplaying Chatbots
 * [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
@@ -396,7 +395,7 @@
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) 
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App 
-* [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [Bark with Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
 * [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning
 * [RVC Docs](https://docs.aihub.wtf/) - RVC AI Documentation
 

@@ -169,6 +169,7 @@
 
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
+* 🌐 **[Awesome Islam](https://github.com/AhmedKamal/awesome-Islam)** - Islam Related Projects / Apps
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
@@ -234,7 +235,6 @@
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://alfaazplus.com/)
-* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [English Torah](https://englishtorah.com/) - Torah Translation
@@ -336,7 +336,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://codeberg.org/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
@@ -411,6 +411,7 @@
 * [Elarc Toon](https://elarctoon.com/)
 * [ZinManga](https://zinmanga.io/)
 * [MangaKomi](https://mangakomi.io/)
+* [Zero Scans](https://zscans.com/)
 * [MangaWeebs](https://mangaweebs.in/)
 * [Manhuafast](https://manhuafast.com/)
 * [Manhwasco](https://manhwasco.net/)
@@ -977,7 +978,7 @@
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
+* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader with Proxy Support
 * [DocDownloader](https://docdownloader.com/) or [scribd.vpdfs](https://scribd.vpdfs.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader

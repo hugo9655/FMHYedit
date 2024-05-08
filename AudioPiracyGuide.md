@@ -43,7 +43,7 @@
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Song Country Search
 * [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
@@ -151,7 +151,7 @@
 * [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [Di.fm](https://www.di.fm/) - Electronic Radio
-* [0x40](https://0x40.mon.im/) - Electronic Radio w/ Anime Pictures
+* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
 * [8bit.fm](https://8bit.fm/) - Chiptune Radio
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
@@ -349,7 +349,7 @@
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [DocOverBlog](https://docoverblog.blogspot.com/) - FLAC
-* [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit w/ VPN
+* [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit with VPN
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -491,7 +491,7 @@
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
 * [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [TG Bot](https://t.me/odesli_bot)
 * [Kworb](https://kworb.net/) - Music Top Charts
-* [TokBoard](https://tokboard.com/) or [TokChart](https://tokchart.com/) - TikTok Song Charts
+* [TokChart](https://tokchart.com/) - TikTok Song Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [TheIndieRockPlaylist](https://www.theindierockplaylist.com/) - Indie Rock Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
@@ -505,7 +505,7 @@
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
-* [Forgotify](https://forgotify.com/) - Songs w/ No Plays on Spotify
+* [Forgotify](https://forgotify.com/) - Songs with No Plays on Spotify
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
@@ -651,7 +651,8 @@
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)** or [genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
-* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
+* [Lyrist](https://lyrist.app) - Write Lyrics with Beats
+* [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 
 ***
 
