@@ -247,7 +247,7 @@
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
-* [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
+* [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
