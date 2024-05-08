@@ -262,9 +262,6 @@
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
-
-* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
-
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Kakao](https://map.kakao.com/) - Map of South Korea
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
@@ -353,7 +350,7 @@
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 
-### Historic Maps
+## ▷ Historic Maps
 
 Historical Map Archives:
 
@@ -379,7 +376,7 @@ Historical Map Archives:
 * [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
 
 
-### Satellite & Street View Maps (turn into normal/general maps?)
+## ▷ Satellite & Street View Maps (turn into normal/general maps?)
 
 Satellite:
 
@@ -449,6 +446,7 @@ original storage section:
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
+* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature](https://www.nature.com/), [Science](https://www.science.org/), [PopSci](https://www.popsci.com/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
