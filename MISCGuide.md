@@ -340,8 +340,8 @@ Satellite / Street View Maps: (storage section)
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
-* [Kepler](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
-* [Kakao](https://map.kakao.com/) - Map of South Korea
+* [kepler.gl](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
+* [kakaomap](https://map.kakao.com/) - Map of South Korea
 
 ## ▷ Geology Maps
 
@@ -388,8 +388,8 @@ Historical Map Archives:
 * [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
 * [Loc Maps](https://www.loc.gov/collections/general-maps/)
 * [OpenHistoricalMap](https://www.openhistoricalmap.org/)
+* [MapHistory](https://www.maphistory.info/index.html)
 
-* [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
