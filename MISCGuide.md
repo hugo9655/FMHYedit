@@ -234,13 +234,11 @@
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) or [LiveUAMap](https://liveuamap.com/)- Global Conflicts Map
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
-* [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
-* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
@@ -259,34 +257,43 @@
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
-## ▷ Satellite / Street View Maps (turn into normal/general maps?)
+## ▷ Infrastructure / Transport Maps (needs checking)
 
-Satellite:
+* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
+* [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 
+* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
+* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 
-Street view:
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
+* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
+* [Wigle](https://wigle.net/) - Wireless Network Mapping
+* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
+## ▷ Satellite / Street View Maps (turn into General Navigation / Transport Maps?)
 
-taken from Maps section:
+Street Maps:
 
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/)
-* [KartaView](https://kartaview.org/landing)
-* [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor)
-* [Open Infrastructure Map](https://openinframap.org/)
-* [FacilMap](https://facilmap.org/)
-* [OutdoorMaps](https://outdoormaps.eu/)
-* [OSMapp](https://osmapp.org/)
-* [ABC Map](https://abc-map.fr/)
-* [Mapillary](https://www.mapillary.com/)
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) / [overpass turbo](https://overpass-turbo.eu/)
+* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
+* [Mapillary](https://www.mapillary.com/) - Open Street View Data
+* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
 
-* [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - Random Street View
-* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
+* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
 
-original storage section:
+* [Abc-Map](https://abc-map.fr/)
 
-* ⭐ **[Organic Maps](https://organicmaps.app/)** - Offline Mobile Map
+Satellite / Street View Maps: (storage section)
+
+* ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
 * ⭐ **[Google](https://www.google.com/maps/)** / [Themes for Web Developers](https://snazzymaps.com/)
 
 * [Satellites.pro](https://satellites.pro/)
@@ -351,17 +358,7 @@ original storage section:
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Infrastructure Maps (needs checking)
-
-* [PowerOutage](https://poweroutage.us/) - Power Outage Map
-* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
-* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [Wigle](https://wigle.net/) - Wireless Network Mapping
-* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
-* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
-
-## ▷ Transport Maps
+## ▷ Railway Maps (needs checking)
 
 (tag railway maps vs tracker maps?)
 
@@ -376,12 +373,6 @@ original storage section:
 * [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-
-* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
-* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
-* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 
 ## ▷ Historic Maps
 
