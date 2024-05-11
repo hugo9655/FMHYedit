@@ -257,17 +257,51 @@
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
-## ▷ Infrastructure / Transport Maps (needs checking)
+## ▷ Navigation / Transport Maps
 
-* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
+* ↪️ **[Satellite / Street View / Earth Data Maps]()**
+* ↪️ **[Railway Maps]()**
+* ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) / [overpass turbo](https://overpass-turbo.eu/) - Online Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)** / [Themes for Web Developers](https://snazzymaps.com/) - Online Maps
+* [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
-
 * [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [Wikiroutes](https://wikiroutes.info/) - Public Transport Routes
+* [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
+* [kakaomap](https://map.kakao.com/) - Map of South Korea
 
+
+* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
+* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
+* [Google Earth](https://earth.google.com/web/) - Earth Viewer
+* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
+* [Mapillary](https://www.mapillary.com/) - Open Street View Data
+* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
+* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
+
+
+## ▷ Railway Maps (needs checking)
+
+(tag railway maps vs tracker maps?)
+
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
+* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
+* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
+* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
+* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
+* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
+* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
+* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
+
+## ▷ Infrastructure Maps (needs checking)
+
+* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
@@ -275,39 +309,6 @@
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
-
-## ▷ Satellite / Street View Maps (turn into General Navigation / Transport Maps?)
-
-Street Maps:
-
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) / [overpass turbo](https://overpass-turbo.eu/)
-* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
-* [Mapillary](https://www.mapillary.com/) - Open Street View Data
-* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
-
-* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
-* [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
-* [zoom.earth](https://zoom.earth/) or [Google Earth](https://earth.google.com/web/) - Earth Viewer
-
-* [Abc-Map](https://abc-map.fr/)
-
-Satellite / Street View Maps: (storage section)
-
-* ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
-* ⭐ **[Google](https://www.google.com/maps/)** / [Themes for Web Developers](https://snazzymaps.com/)
-
-* [Satellites.pro](https://satellites.pro/)
-* [Bing](https://www.bing.com/maps)
-* [Wego.Here](https://wego.here.com/)
-* [Terrafly](http://www.terrafly.com/)
-* [EarthExplorer](https://earthexplorer.usgs.gov/)
-* [EarthData](https://search.earthdata.nasa.gov/search)
-* [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php##homepage)
-* [Qwant](https://www.qwant.com/maps/)
-* [city2map](https://www.city2map.com/)
-* [MapQuest](https://www.mapquest.com/)
-* [InstantStreetView](https://www.instantstreetview.com/)
-* [ShowMyStreet](https://showmystreet.com/)
 
 ## ▷ Climate / Weather Maps
 
@@ -341,7 +342,6 @@ Satellite / Street View Maps: (storage section)
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [kepler.gl](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
-* [kakaomap](https://map.kakao.com/) - Map of South Korea
 
 ## ▷ Geology Maps
 
@@ -357,22 +357,6 @@ Satellite / Street View Maps: (storage section)
 * [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
-
-## ▷ Railway Maps (needs checking)
-
-(tag railway maps vs tracker maps?)
-
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
-* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
-* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
-* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
-* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
-* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
-* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
-* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
-* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
-* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 
 ## ▷ Historic Maps
 
