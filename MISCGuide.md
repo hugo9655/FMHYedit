@@ -357,6 +357,16 @@ Historical Map Archives:
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
+* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
+* [Aporee](https://aporee.org/) - World Map of Sounds
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
+* [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
+* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
+* [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Maps
+* [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+
 ***
 
 # ► News
