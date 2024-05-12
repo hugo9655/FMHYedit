@@ -235,6 +235,19 @@
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) or [LiveUAMap](https://liveuamap.com/)- Global Conflicts Map
+
+* 🌐 **[Historical Maps](https://history-maps.com/)**, [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html), [Geacron](http://geacron.com/), [Cronobook](https://cronobook.com/), [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](https://rumsey.geogarage.com/index.html), [DavidRumsey](https://www.davidrumsey.com/), [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division), [Loc Maps](https://www.loc.gov/collections/general-maps/), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
+* ↪️ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/), [Abc-Map](https://abc-map.fr/), [OSMapp](https://osmapp.org/) or [Mapillary](https://www.mapillary.com/) - Street Maps
+* ⭐ **[Routora](https://chromewebstore.google.com/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
+* [Historic Borders](https://historicborders.app/) - Historic Borders Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
+* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
+
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
