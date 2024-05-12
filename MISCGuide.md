@@ -273,43 +273,6 @@
 * [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 
-
-* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
-* [Google Earth](https://earth.google.com/web/) - Earth Viewer
-* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
-* [Mapillary](https://www.mapillary.com/) - Open Street View Data
-* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
-* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
-
-
-## ▷ Railway Maps (needs checking)
-
-(tag railway maps vs tracker maps?)
-
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
-* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
-* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
-* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
-* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
-* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
-* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
-* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
-* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
-* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-
-## ▷ Infrastructure Maps (needs checking)
-
-* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
-* [PowerOutage](https://poweroutage.us/) - Power Outage Map
-* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
-* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [Wigle](https://wigle.net/) - Wireless Network Mapping
-* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
-* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
-
 ## ▷ Climate / Weather Maps
 
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/), [Windy](https://www.windy.com/), [Earth](https://earth.nullschool.net/), [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - General Weather / Climate Maps 
@@ -358,7 +321,7 @@
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Historic Maps
+## ▷ Historic Maps (needs checking)
 
 Historical Map Archives:
 
@@ -382,6 +345,17 @@ Historical Map Archives:
 * [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
+
+## ▷ Infrastructure Maps (needs checking)
+
+* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
+* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
+* [Wigle](https://wigle.net/) - Wireless Network Mapping
+* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
 ***
 

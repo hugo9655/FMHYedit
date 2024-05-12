@@ -585,7 +585,31 @@
 
 ## Maps
 
+### Satellite / Street View / Earth Data Maps
 
+* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
+* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
+* [Google Earth](https://earth.google.com/web/) - Earth Viewer
+* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
+* [Mapillary](https://www.mapillary.com/) - Open Street View Data
+* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
+* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
+
+### Railway Maps (needs checking)
+
+(tag railway maps vs tracker maps?)
+
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
+* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
+* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
+* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
+* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
+* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
+* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
+* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 
 ***
 
