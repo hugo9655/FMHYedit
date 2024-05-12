@@ -200,6 +200,7 @@
 * [Packdensack](https://packdensack.com/) - Travel Packing List Generator
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Database
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
@@ -229,31 +230,18 @@
 
 ***
 
-# ► Maps
+# ► Maps (needs checking)
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) or [LiveUAMap](https://liveuamap.com/)- Global Conflicts Map
-
-* 🌐 **[Historical Maps](https://history-maps.com/)**, [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html), [Geacron](http://geacron.com/), [Cronobook](https://cronobook.com/), [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](https://rumsey.geogarage.com/index.html), [DavidRumsey](https://www.davidrumsey.com/), [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division), [Loc Maps](https://www.loc.gov/collections/general-maps/), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
-* ↪️ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/), [Abc-Map](https://abc-map.fr/), [OSMapp](https://osmapp.org/) or [Mapillary](https://www.mapillary.com/) - Street Maps
-* ⭐ **[Routora](https://chromewebstore.google.com/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/) or [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) - Global Conflicts Map
-* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
-* [Historic Borders](https://historicborders.app/) - Historic Borders Map
-* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
-* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
-
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
-* [Snap Map](https://map.snapchat.com/) - Snap Chat Map
+* [Snap Map](https://map.snapchat.com/) - Snapchat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
@@ -272,14 +260,13 @@
 
 ## ▷ Navigation / Transport Maps
 
-* ↪️ **[Satellite / Street View / Earth Data Maps]()**
 * ↪️ **[Railway Maps]()**
 * ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) / [overpass turbo](https://overpass-turbo.eu/) - Online Maps
 * ⭐ **[Google Maps](https://www.google.com/maps/)** / [Themes for Web Developers](https://snazzymaps.com/) - Online Maps
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
-* [City Roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
 * [Wikiroutes](https://wikiroutes.info/) - Public Transport Routes
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
@@ -370,15 +357,15 @@ Historical Map Archives:
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
-* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
-* [Aporee](https://aporee.org/) - World Map of Sounds
-* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
-* [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
-* [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Maps
-* [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+## ▷ Satellite / Street View / Earth Data Maps (needs checking) (rename section?)
+
+* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
+* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
+* [Google Earth](https://earth.google.com/web/) - Earth Viewer
+* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
+* [Mapillary](https://www.mapillary.com/) - Open Street View Data
+* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
+* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 
 ***
 

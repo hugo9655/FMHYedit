@@ -585,16 +585,6 @@
 
 ## Maps
 
-### Satellite / Street View / Earth Data Maps
-
-* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
-* [Google Earth](https://earth.google.com/web/) - Earth Viewer
-* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
-* [Mapillary](https://www.mapillary.com/) - Open Street View Data
-* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
-* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
-
 ### Railway Maps (needs checking)
 
 (tag railway maps vs tracker maps?)
