@@ -245,6 +245,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
+* [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [aprs.fi](https://aprs.fi/) - Live APRS Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
@@ -262,8 +263,8 @@
 
 * ↪️ **[Railway Maps]()**
 * ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) / [overpass turbo](https://overpass-turbo.eu/) - Online Maps
-* ⭐ **[Google Maps](https://www.google.com/maps/)** / [Themes for Web Developers](https://snazzymaps.com/) - Online Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Overpass API GUI](https://overpass-turbo.eu/)
+* ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
