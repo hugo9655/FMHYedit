@@ -8,9 +8,6 @@
 
 ### FAQ
 
-> How can I tell if a site or download link is safe? Any tips? 
-Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide and. avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). If you still feel unsure feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
-
 > How can I improve my privacy online? 
 We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
 
@@ -116,7 +113,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Streaming
 
-**[movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension) / [Braflix](https://www.braflix.video/) / [Binged](https://binged.live/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[movie-web](https://erynith.github.io/movie-web-instances/) + [Add Sources](https://docs.sudo-flix.lol/extension) / [Braflix](https://www.braflix.video/) / [Binged](https://binged.live/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -137,6 +134,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
+**[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
 **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
 **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search
