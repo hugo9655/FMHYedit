@@ -663,14 +663,15 @@
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
 * ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Extra](https://modrinth.com/mod/sodium-extra)
 * [Additive](https://modrinth.com/modpack/additive) - Performance Modpack
-* [Entity Culling](https://modrinth.com/mod/entityculling) - Hide Entities That Aren't Visible
+* [Entity Culling](https://modrinth.com/mod/entityculling) - Hides Entities That Aren't Visible
 * [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes Memory Leaks for Client & Server
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - Reduces Resource Usage When Idle
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
 * [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance / [Note]()
-* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork Compatible With Forge
+* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork (Forge Compatible)
+---
 * [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
@@ -702,20 +703,6 @@
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Realtime Updated Server Banners
-
-***
-
-## Minecraft Launchers
-
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher) - Feature-rich Launcher
-* ⭐ **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher
-* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android / iOS / Requires Legit Copy
-* [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
-* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / Use Chrome or Disable Adblock to see Downloads
-* [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
-* [Ares](https://www.aresclient.com/) - MC Client
-
-[UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Client](https://www.salwyrr.com/) / [Crack](https://pastebin.com/ggcB7RNi)
 
 ***
 
