@@ -661,19 +661,16 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ⭐ **[Fabulously Optimized](https://download.fo)** - Performance Modpack / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
-* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
+* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Extra](https://modrinth.com/mod/sodium-extra)
+* [Additive](https://modrinth.com/modpack/additive) - Performance Modpack
 * [Entity Culling](https://modrinth.com/mod/entityculling) - Hide Entities That Aren't Visible
 * [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
-* []() - 
-* []() - 
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes Memory Leaks for Client & Server
+* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - Reduces Resource Usage When Idle
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
 * [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance / [Note]()
-
-* [Additive](https://modrinth.com/modpack/additive) - Performance Modpack
-* [OptiFine](https://optifine.net/)
-* [Caffeine](https://github.com/CaffeineMC)
-* [Ares](https://www.aresclient.com/)
+* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork Compatible With Forge
 * [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
@@ -716,6 +713,7 @@
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / Use Chrome or Disable Adblock to see Downloads
 * [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
+* [Ares](https://www.aresclient.com/) - MC Client
 
 [UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Client](https://www.salwyrr.com/) / [Crack](https://pastebin.com/ggcB7RNi)
 
