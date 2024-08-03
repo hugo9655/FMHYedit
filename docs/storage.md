@@ -644,24 +644,37 @@
 
 ***
 
-## Minecraft Mods
+## Minecraft
 
-* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
+### Mod Indexes
+
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
+* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 * ⭐ **[Alternatives](https://alternatives.microcontrollers.dev/)** / [2](https://microcontrollersdev.github.io/Alternatives/)
+* [Planet Minecraft](https://www.planetminecraft.com/)
+* [MC Archive](https://mcarchive.net/)
+* [ModBay](https://modbay.org/)
+* [FiberMC](https://www.fibermc.com/)
 
-[Planet Minecraft](https://www.planetminecraft.com/), [MC Archive](https://mcarchive.net/), [ModBay](https://modbay.org/), [FiberMC](https://www.fibermc.com/)
+### Optimization Mods
 
-***
+* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
+* ⭐ **[Fabulously Optimized](https://download.fo)** - Performance Modpack / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)
+* ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
+* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
+* [Entity Culling](https://modrinth.com/mod/entityculling) - Hide Entities That Aren't Visible
+* [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
+* [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
+* []() - 
+* []() - 
+* [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
+* [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance / [Note]()
 
-## Minecraft Optimization Mods
-
-* ⭐ **[Fabulously Optimized](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
-* ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
-* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
-* [Additive](https://modrinth.com/modpack/additive) - Additive Mod Pack
-
-[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
+* [Additive](https://modrinth.com/modpack/additive) - Performance Modpack
+* [OptiFine](https://optifine.net/)
+* [Caffeine](https://github.com/CaffeineMC)
+* [Ares](https://www.aresclient.com/)
+* [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
 

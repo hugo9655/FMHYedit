@@ -485,6 +485,90 @@
 
 ***
 
+# ► Minecraft Tools
+
+* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/open-m)
+* 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)**, [Birdflop]( https://www.birdflop.com/resources/) or [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Resources
+* 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
+* 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
+* 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
+* ↪️ **[Minecraft Server Hosts / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_hosting)**
+* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** / [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/) / [Servers](https://servers.eaglercraft.com/) / [Eaglercrack](https://eaglercrack.net/)
+* ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
+* ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
+* ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
+* ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
+* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
+* ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
+* [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
+* [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
+* [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
+* [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
+* [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
+* [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
+* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
+* [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
+* [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
+* [Cubical](https://www.cubical.xyz/) / [Beta](https://beta.cubical.xyz/) - Minecraft Schematic Tool
+* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
+* [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
+* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
+* [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
+* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
+* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
+* [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
+* [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
+* [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [MSkins](https://mskins.net/en) - Skin Grabbers
+* [Ely.by](https://ely.by/) - Skin System / Authorization
+* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
+* [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
+* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Create Poses for Minecraft Armor
+* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Custom 3D Model to Minecraft Render
+* [MCprep](https://theduckcow.com/dev/blender/mcprep/) - Blender OBJ Import / Texturepacks / Character Rigging / Animations
+* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Minecraft Cloud Storage Backup
+* [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
+* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
+* [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
+* [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
+* [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
+* [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
+* [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/)  - Mapart schematic / map.dat Generator
+* [Chunker](https://chunker.app/) - Java / Bedrock Format Converter
+* [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
+* [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
+* [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
+* [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
+* [Voyager](https://voyager.minedojo.org/) - Minecraft AI
+* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
+* [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
+* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
+* [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
+* [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
+* [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
+
+***
+
+## ▷ Mods
+
+* 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)**, [sk1er.club](https://sk1er.club/), [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Quality of Life Mods
+* ↪️ **[Mod Indexes]()**
+* ↪️ **[Optimization Mods]()**
+* ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
+* [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
+* [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps, and Resources
+* [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
+* [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
+* [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
+* [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
+* [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod
+* [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
+* [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
+
+***
+
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
@@ -530,88 +614,6 @@
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
-
-***
-
-## ▷ Minecraft Tools
-
-* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/open-m)
-* 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)**, [Birdflop]( https://www.birdflop.com/resources/) or [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Resources
-* 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
-* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
-* 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
-* 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
-* 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
-* ↪️ **[Minecraft Server Hosts / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_hosting)**
-* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** / [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
-* ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
-* ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/) / [Servers](https://servers.eaglercraft.com/) / [Eaglercrack](https://eaglercrack.net/)
-* ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
-* ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
-* ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
-* ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
-* ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
-* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
-* ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
-* [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
-* [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Minecraft Quality of Life Mods
-* [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
-* [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
-* [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
-* [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
-* [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
-* [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
-* [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
-* [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
-* [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
-* [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
-* [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Minecraft Render Distance
-* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
-* [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
-* [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
-* [Cubical](https://www.cubical.xyz/) / [Beta](https://beta.cubical.xyz/) - Minecraft Schematic Tool
-* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
-* [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
-* [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API
-* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
-* [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
-* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
-* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
-* [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
-* [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
-* [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [MSkins](https://mskins.net/en) - Skin Grabbers
-* [Ely.by](https://ely.by/) - Skin System / Authorization
-* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
-* [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
-* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Create Poses for Minecraft Armor
-* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
-* [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Custom 3D Model to Minecraft Render
-* [MCprep](https://theduckcow.com/dev/blender/mcprep/) - Blender OBJ Import / Texturepacks / Character Rigging / Animations
-* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Minecraft Cloud Storage Backup
-* [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
-* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
-* [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
-* [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
-* [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
-* [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
-* [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/)  - Mapart schematic / map.dat Generator
-* [Chunker](https://chunker.app/) - Java / Bedrock Format Converter
-* [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
-* [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
-* [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
-* [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
-* [Biomes-O-Plenty](https://github.com/Glitchfiend/BiomesOPlenty) - Extra Biomes Mod
-* [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
-* [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
-* [Voyager](https://voyager.minedojo.org/) - Minecraft AI
-* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
-* [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
-* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
-* [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
-* [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
-* [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
 
 ***
 
