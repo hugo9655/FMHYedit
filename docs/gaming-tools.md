@@ -501,6 +501,11 @@
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
+* [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Minecraft Quality of Life Mods
+* [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
+* [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
+* [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
 * [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
@@ -563,7 +568,7 @@
 ---
 * [UltimMC](https://github.com/UltimMC/Launcher)
 * [MultiMC](https://multimc.org/)
-* [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en)
+* [Legacy Launcher](https://tlaun.ch/) / [2](https://lln4.ru/en)
 * [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/)
 * [TechnicPack](https://www.technicpack.net/)
 * [LabyMod](https://www.labymod.net/)
