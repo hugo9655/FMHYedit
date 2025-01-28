@@ -100,6 +100,7 @@
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [AnyImage](https://anyimage.io/) - Create Social Card Links
 
 ***
 
@@ -392,23 +393,19 @@
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
-* [upto](https://upto.site/) - `upto.site/3e04d1`
-* [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
-* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
-* [wr.do](https://wr.do/) - Account Required
-* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
-* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
+* [Bly.to](https://bly.to/) - `bly.to/3e04d1`
+* [Ej.uz](https://ej.uz/en), [2](https://sald.us/en) - `ej.uz/t8ar`
+* [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
+* [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
+* [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
+* [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
-* [Thinfi](https://thinfi.com/) - Password Protect a Short URL / `thinfi.com/q8aw`
-* [Emojied](https://emojied.net/) - Emoji URL Shorteners
-* [ShortShare](https://shortshare.app/) - Short Link App
-* [BR3F](https://www.br3f.com/) - Single-Click Short Links
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri), [Snapp](https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
-
+* [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
+* [emojied](https://emojied.net/) - Emoji URL Shortener
+* [Suri](https://github.com/jstayton/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
 ***
 
 ## ▷ URL Unshorteners

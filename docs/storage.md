@@ -543,6 +543,15 @@
 
 ***
 
+## Internet Archive Tools
+
+* [arch1ve](https://rentry.org/arch1ve) - IA Book Ripping Guide
+* [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books to PDF
+* [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
+* [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
+
+***
+
 ## LaTeX Tools
 
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
