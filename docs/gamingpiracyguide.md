@@ -17,7 +17,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9) / pw: 1234 or steamrip.com
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
@@ -26,6 +26,7 @@
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / pw: 404
+* [SteamUnderground](https://steamunderground.net/) - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ZjrNBhmhPz)
 * [UnionCrax](https://union-crax.xyz/) - Download / [Discord](https://discord.gg/dkVame6BQS)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
@@ -35,7 +36,6 @@
 * [Cr4ckPass](https://cr4ckpass.online/) - Download
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
 * [GLoad](https://gload.to/) - Download
-* [SteamUnderground](https://steamunderground.net/) - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ZjrNBhmhPz)
 * [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / [Site Info](https://rentry.org/ikc3x8bt) / Use Adblocker
 * [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
 * [CG Games](https://www.cg-gamespc.com/) - Download
@@ -213,7 +213,7 @@
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
-* [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
+* [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods

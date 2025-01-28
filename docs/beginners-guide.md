@@ -14,9 +14,9 @@ Piracy sites usually contain ads, some of which can be harmful, often leading to
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/internet-tools#redirect-bypass)** to skip annoying countdowns. 
 
-For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
+For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
-!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
@@ -56,7 +56,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [SpotC++](https://spotcompiled.github.io/) (iOS)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [OuterTune](https://github.com/DD3Boh/OuterTune) / [SpotC++](https://spotcompiled.github.io/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***

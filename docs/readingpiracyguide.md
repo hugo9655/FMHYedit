@@ -7,7 +7,7 @@
 # ► Ebooks
 
 * 🌐 **[Open Slum](https://open-slum.org/)** - Book Site Index / Uptime Tracking
-* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/)m [3](https://annas-archive.se/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Mobile App](https://github.com/dstark5/Openlib)
+* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Mobile App](https://github.com/dstark5/Openlib)
 * ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Download Buttons](https://greasyfork.org/en/scripts/514877) / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors)
 * ⭐ **[Z-Library](https://z-lib.gs/)**, [2](https://articles.sk/), [3](https://z-lib.gd/), [4](https://1lib.sk/), [5](https://z-library.sk/) - Books / Comics / Educational / [Desktop / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
@@ -58,6 +58,7 @@
 ## ▷ Public Domain
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
+* ⭐ **[Unglue.it](https://unglue.it/)**
 * [openlibrary](https://openlibrary.org/)
 * [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Standard EBooks](https://standardebooks.org/)
@@ -88,7 +89,7 @@
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
-* [ePDF](https://epdf.mx/) - Books
+* [ePDF](https://epdf.tips/), [2](https://epdf.pub/) - Books 
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
@@ -274,6 +275,7 @@
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [Sioyek](https://sioyek.info/) - PDF / PC / Mac / Linux
 * [⁠Yomu](https://www.yomu-reader.com/) - Ebook Reader / iOS / Mac
+* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / iOS / Mac
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
@@ -368,7 +370,6 @@
 * [GallaTube Comics](https://galla.tube/comics/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
 * [Read Comics Online](https://readcomicsonline.ru/)
-* [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
@@ -407,7 +408,7 @@
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_reading_.2F_.8AAD.66F8)**
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) / [Discord](https://discord.gg/comick)
-* ⭐ **[Weeb Central](https://weebcentral.com/)**, [2](https://mangasee123.com/), [3](https://manga4life.com/)
+* ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[MangaPark](https://mangapark.net/)** / [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * ⭐ **[MangaPiracy](https://discord.gg/ZgMtAyxFSU)** - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
@@ -419,7 +420,7 @@
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/) / [Frontend](https://akari-psi.vercel.app/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [BATO.TO](https://fto.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
+* [BATO.TO](https://bato.to/), [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
 * [Freek](https://freek.to/explore/manga)
 * [MangaReader](https://mangareader.to/) / [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
@@ -436,6 +437,7 @@
 * [Like Manga](https://likemanga.io/)
 * [Wuxia World](https://wuxiaworld.site/)
 * [Zero Scans](https://zscans.com/)
+* [AsuraScansFree](https://asurascansfree.com/)
 * [Manhuafast](https://manhuafast.com/)
 * [MangaFlame](https://mangaflame.org/) / [Discord](https://discord.gg/jrsuS34YXF)
 * [Kaliscan](https://kaliscan.io/home)
@@ -656,7 +658,7 @@
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
-* [ Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
+* [Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics

@@ -279,7 +279,7 @@
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
 * [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
 * [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
-* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Twitter](https://twitter.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
+* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [X](https://x.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
@@ -301,7 +301,7 @@
 * [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
 * [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
 * [The Dimensions Of Colour](http://www.huevaluechroma.com/) - Colour Theory Guide
-* [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
+* [DevinKorwin Color Guide](https://x.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 
@@ -377,7 +377,7 @@
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
-* [⁠ChessVariants(https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides 
+* [⁠ChessVariants](https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides 
 
 ***
 
@@ -1032,7 +1032,7 @@
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
 * [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
-* [CodingBat](https://codingbat.com/python) - Java Practice
+* [CodingBat](https://codingbat.com/java) - Java Practice
 * [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
@@ -1059,7 +1059,7 @@
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [Local-First Web](https://localfirstweb.dev/) - Local-First Web Development Guide
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
-* [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
+* [backendlore](https://github.com/fpereiro/backendlore) or [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Backend Coding Guides
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [⁠Backend Cheats](https://github.com/cheatsnake/backend-cheats) - ⁠Backend Cheatsheet / Guide
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
@@ -1081,7 +1081,7 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide
-* [Untrusted](https://alexnisnevich.github.io/untrusted/) - JavaScript Learning Game
+* [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
 * [HTML DOM](https://phuoc.ng/collection/html-dom/) - Learn DOM Manipulation
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 
@@ -1112,7 +1112,7 @@
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
 * [Web Browser Engineering](https://browser.engineering/) - Learn about Browser Engineering
-* [ OSDev Wiki](https://wiki.osdev.org/) - Operating System Dev Wiki
+* [OSDev Wiki](https://wiki.osdev.org/) - Operating System Dev Wiki
 * [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Operating Systems Book
 * [Wi is Fi](https://www.wiisfi.com/) - Wi-Fi Educational Guide
 * [CPU Land](https://cpu.land/) - What Happens when you run Programs
@@ -1185,7 +1185,6 @@
 * [FrontEndMentor](https://www.frontendmentor.io/), [Phuoc](https://phuoc.ng/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
-* [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
 
 ***
 
@@ -1270,7 +1269,7 @@
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Gizmo](https://gizmo.ai/), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
- * ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
+* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
@@ -1301,7 +1300,7 @@
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
-* [Studocuhack](https://github.com/danieltyukov/studocuhack) - Studocu Downloader
+* [Studocuhack](https://github.com/danieltyukov/studocuhack), [DLStuDoc](https://dlstudocu.com/) or [DownStuDoc](https://downstudocu.com/) - Studocu Downloaders
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
@@ -1437,7 +1436,7 @@
 ***
 
 ## ▷ Wikipedia Tools
- 
+
 * 🌐 **[Wiki Portals](https://rentry.co/wikiportals)** - Wiki Portals Navigation
 * [HatNote](https://top.hatnote.com/) - Top Pages
 * [HyperLeak](https://hyperleap.com/), [2](https://reversepedia.org/) - Page Connections

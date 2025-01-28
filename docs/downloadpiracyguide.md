@@ -19,7 +19,7 @@
 * [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
-* [dedigger](https://www.dedigger.com/) - GDrive File Search
+* [dedigger](https://www.dedigger.com/) - Google Drive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
@@ -86,7 +86,7 @@
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[FilePursuit](https://filepursuit.com)** / [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)**
-* [Meawfy](https://meawfy.com/) - Mega.nz Search
+* [Meawfy](https://meawfy.com/) - Mega, GoFile and MediaFire Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
 * [fidigger](https://fidigger.com/)
@@ -147,7 +147,6 @@
 * [GenP](https://www.reddit.com/r/GenP/wiki/index), [2](https://genpguides.github.io/) - Adobe Software Patcher / [Discord](https://discord.gg/BVBh2XVn9s)
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
-
 ***
 
 ## ▷ FOSS Sites
@@ -172,7 +171,7 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend

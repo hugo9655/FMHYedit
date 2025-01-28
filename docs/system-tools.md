@@ -112,7 +112,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** - Desktop Client / [Twitter](https://twitter.com/parsecteam) / [Discord]( https://discordapp.com/invite/cQjEGFy)
+* ⭐ **[Parsec](https://parsec.app/)** - Desktop Client / [X](https://x.com/parsecteam) / [Discord]( https://discordapp.com/invite/cQjEGFy)
 * ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
@@ -326,6 +326,7 @@
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [NetBoot](https://netboot.xyz/) - Boot Operating Systems without ISOs
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***

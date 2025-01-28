@@ -65,7 +65,7 @@
 ## ▷ Paywall Bypass
 
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
-* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [Twitter](https://twitter.com/Magnolia1234B)
+* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
@@ -252,7 +252,7 @@
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
-* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
+* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
 * [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
@@ -546,7 +546,7 @@
 
 ## ▷ Email Aliasing
 
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailgw](https://mailgw.com/) - Email Aliasing
@@ -574,7 +574,6 @@
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
-* [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
@@ -924,7 +923,7 @@
 
 ## ▷ Web Scraping / Crawling
 
-* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[⁠Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
 * 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
 * ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
 * [SpiderSuite](https://spidersuite.github.io/SSuite/) - Advanced Web Crawler / [GitHub](https://github.com/3nock/SpiderSuite)

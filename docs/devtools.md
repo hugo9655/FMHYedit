@@ -15,7 +15,7 @@
 * [Blind](https://www.teamblind.com/) - Developer Forum
 * [IndieHackers](https://www.indiehackers.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
-* [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
+* [TheSecMaster](https://x.com/TheSecMaster1) - Cybersecurity Blog
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [DevBuddies](https://buddies.dev/) - Search for Programming Partners
@@ -48,7 +48,6 @@
 # ► Developer Tools
 
 * 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Programming Resources
-* 🌐 **[Free For Dev](https://free-for.dev/)** - Developer Resources
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
@@ -65,7 +64,7 @@
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
-* [HexEd.it](https://hexed.it/) or [ImHex](https://imhex.werwolv.net) / [Web Version](https://web.imhex.werwolv.net/) - Hex Editors
+* [HexEd.it](https://hexed.it/) or [ImHex](https://imhex.werwolv.net) / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) - Hex Editors
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Bardeen](https://www.bardeen.ai/) or [N8N](https://n8n.io/) - Workflow Automation
@@ -164,7 +163,7 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
-* ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [⁠DuckDB](https://duckdb.org/), [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
+* ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [SQLook](https://sqlook.com/), [⁠DuckDB](https://duckdb.org/), [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
 * [Sqlable](https://sqlable.com/) - SQL Tools
 * [Grafana](https://grafana.com/) or [Beszel](https://beszel.dev/) - Dev Data Dashboards
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
@@ -196,7 +195,7 @@
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
-* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj), [Github Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
+* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj), [GitHub Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [Lab+](https://github.com/thelooter/labplus_for_gitlab) - GitLab Android App
 * [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
@@ -326,7 +325,7 @@
 * [Charm](https://charm.sh/) - Add Backend to Terminal Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
-* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
+* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
@@ -347,7 +346,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Let Apps Use System API (Android)
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
@@ -619,7 +618,7 @@
 
 # ► Programming Languages
 
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/), [Reference](https://cheatsheets.zip/) / [Github](https://github.com/Fechin/reference) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/), [Reference](https://cheatsheets.zip/) / [GitHub](https://github.com/Fechin/reference) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
 * 🌐 **[TheAlgorithms](https://github.com/TheAlgorithms/)** - Coding Algorithms
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_programming_languages)**
@@ -780,7 +779,7 @@
 * ⭐ **[Formulaer](https://formulaer.com/)**, [⁠Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
 * [DataNodes](https://datanodes.to/) - Webmasters Only File Host / [Discord](https://discord.gg/mKyBMyeKvh)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
-*  [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
+* [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
@@ -868,7 +867,7 @@
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
 * [Interplay](https://interplayapp.com/) - Product Design Tool
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
@@ -1055,6 +1054,7 @@
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
+* [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Infosec Resources
 
 ***
 
@@ -1120,7 +1120,7 @@
 
 ## ▷ Reverse Engineering
 
-* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [Github](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
+* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering

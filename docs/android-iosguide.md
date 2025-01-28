@@ -160,7 +160,7 @@
 * ⭐ **[Reddit Client Patch](https://rentry.co/FMHYBase64#patch-clients)**, [Stealth](https://gitlab.com/cosmosapps/stealth) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Patch Guide
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [GitHub](https://github.com/LucasGGamerM/moshidon)
-* ⭐ **[piko](https://t.me/pikopatches)** / [Builds](http://github.com/crimera/twitter-apk) / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter Apps
+* ⭐ **[piko](https://t.me/pikopatches)** / [Builds](http://github.com/crimera/twitter-apk) / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - X.com Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
@@ -325,7 +325,6 @@
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 
-
 ***
 
 ## ▷ Screen Tools
@@ -410,7 +409,7 @@
 * [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) or [MiCTS](https://github.com/parallelcc/MiCTS) - Gesture Based Search
-* [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Offline AI Chatbots
+* [DeepSeek](https://download.deepseek.com/app/), [⁠ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
@@ -531,8 +530,8 @@
 * ⭐ **[SyncThing Fork](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
 * ⭐ **[LocalSend](https://localsend.org/)** - File Sharing / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sharing
-* ⭐ **[FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm)** or [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm) - Download Managers
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - Download Manager Controller
+* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
@@ -683,6 +682,7 @@
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Torrent Client
 * [TorrServe](https://github.com/YouROK/TorrServe) - Torrent Client
 * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Extra Features](https://rentry.co/FMHYBase64#1dm)
+* [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Torrent Client
 * [Trireme](https://github.com/teal77/trireme) - Deluge Client
 * [Transdroid](https://www.transdroid.org) - Manage BitTorrent Clients / [GitHub](https://github.com/erickok/transdroid) / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager
@@ -824,11 +824,11 @@
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [RiMusic](https://rimusic.xyz/) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
-* [SimpMusic](https://simpmusic.tech/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
+* [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player
-* [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
+* [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Music Player
 
 ***
@@ -883,7 +883,6 @@
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page) / [GitHub](https://github.com/recloudstream/cloudstream)
-* ⭐ **[FlixQuest](https://flixquest.beamlak.dev/)** - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * ⭐ **[Miru Project](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/)
 * ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
@@ -988,8 +987,7 @@
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** or [IRuin](https://iriun.com/) - Use iOS Device as Webcam
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
-* [ChatGPT](https://apps.apple.com/app/id6448311069) - ChatGPT App
-* [⁠Fullmoon](https://fullmoon.app/) - Local LLM App
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [DeepSeek](https://download.deepseek.com/app/), [⁠Mollama](https://apps.apple.com/app/mollama/id6736948278) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Santander](https://github.com/NSAntoine/Santander) or [⁠Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [ZArchiver](https://apps.apple.com/app/id6504976055) or [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [⁠fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager 
@@ -1123,7 +1121,7 @@
 * [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblocker / Userscript Manager
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music
-* [⁠TwitterNoAds](https://github.com/Netskao/TwitterNoAds) - iOS Twitter AdBlock / Download DEB then add to decrypted IPA
+* [⁠TwitterNoAds](https://github.com/Netskao/TwitterNoAds) - iOS X.com AdBlock / Download DEB then add to decrypted IPA
 * [⁠SLC-DNS](https://github.com/Realmzer/SLC-DNS) - Anti-Revoke & AdBlock DNS
 
 ***
@@ -1194,17 +1192,17 @@
 
 ## ▷ Social Media Apps
 
-* ⭐ **[Unbound](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT), [Rosiecord](https://github.com/Skawtnyc/rosiecord) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
+* ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT), [Rosiecord](https://github.com/Skawtnyc/rosiecord) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [Reddit Deluxe](https://t.me/SultanModsiOS), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#redditfilter-note), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216), [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190 ) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Arctic](https://getarctic.app/)**, [Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta ](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
-* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
+* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps 
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty) 
 * [⁠Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
-* [Graysky](https://graysky.app/) - Bluesky Client 
+* [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [Chan](https://github.com/moffatman/chan) - 4Chan App
 * [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks / [Extension](https://github.com/BillyCurtis/OpenInstagramSafariExtension)
@@ -1308,6 +1306,10 @@
 * [Suwatte](https://www.suwatte.app/) - Comic Reader / [Converter](https://seyden.github.io/SuwatteConverter/suwatte) ⁠/ [Discord](https://discord.gg/8wmkXsT6h5) / [GitHub](https://github.com/suwatte)
 * [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
+* [Eboox](https://apps.apple.com/app/eboox-fb2-epub-book-reader/id1489172068) - Ebook Reader
+* [Cantook](https://apps.apple.com/app/cantook-by-aldiko/id1476410111) - Ebook Reader
+* [Readwise](https://apps.apple.com/app/readwise/id1476885528) - Ebook Reader
+* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader
 * [SideBooks](https://apps.apple.com/app/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player / [Discord](https://discord.gg/MjCUXgU)
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server

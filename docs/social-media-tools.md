@@ -64,7 +64,7 @@
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
 * [Webhooker](https://xdfnleaks.github.io/webhooker/) - Simple Webhooks App
 * [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
-* [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter / Telegram Embeds
+* [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
@@ -223,7 +223,7 @@
 * [tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Scored](https://communities.win/) - User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
-* [Squabblr](https://squabblr.co/) - Twitter / Reddit Style Alt
+* [Squabblr](https://squabblr.co/) - X.com / Reddit Style Alt
 * [Discuit](https://discuit.net/) - Centralized Reddit Alt with User Control
 
 ***
@@ -296,12 +296,12 @@
 
 ## ▷ Telegram File Tools
 
+* ⭐ **[teldrive](https://github.com/tgdrive/teldrive)**, [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
-* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
-* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - GDrive Upload Bots
-* [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
-* [SearchX](https://github.com/iamLiquidX/SearchX) - GDrive Search Bot
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
+* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - Google Drive Upload Bots
+* [DrClonerBot](https://t.me/DrClonerBot) - Google Drive Clone Bot
+* [SearchX](https://github.com/iamLiquidX/SearchX) - Google Drive Search Bot
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
@@ -435,6 +435,7 @@
 * [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sort Your Playlists
 * [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) / [2](https://ytplaylist-length.codingdeft.com/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
+* [⁠YouTubePlaylistMerge](https://rentry.org/YouTubePlaylistMerge) - Playlist Merge Guide 
 
 ***
 
@@ -494,7 +495,7 @@
 
 # ► Twitch Tools
 
-* 🌐 **[Twitch Database](https://twitchdatabase.com/)** or [SullyGnome](https://sullygnome.com/) - Twitch Tool Indexes
+* 🌐 **[SullyGnome](https://sullygnome.com/)** - Twitch Tool Index
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** or [Sub-Vod](https://www.sub-vod.fr/) - Watch Sub Only Twitch Videos
@@ -572,18 +573,18 @@
 # ► Twitter Tools
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
-* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
+* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
-* [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
+* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - X.com Frontends
+* [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
-* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
-* [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - Twitter Community Notes Leaderboard
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search X.com Use Lists
+* [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - X.com Community Notes Leaderboard
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
-* [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - Twitter Unfollow Tool
-* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
+* [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
+* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
 
 ***
 
@@ -606,7 +607,7 @@
 * [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) - Twitter Enhancement Extensions
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [OldTwitter](https://github.com/dimdenGD/OldTwitter) or [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Original Twitter Theme
-* [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - TweetDeck Dashboard
+* [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Twitter Dashboard
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
@@ -637,16 +638,10 @@
 
 * 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
+* ↪️ **[Instagram Viewers / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_instagram_viewers_.2F_downloaders)** - View Profiles / Download Pictures
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login 
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
-* [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
-* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
-* [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/) or [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe) - Video / Picture / Story Downloaders
-* [Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) - Picture Downloaders
-* [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
 * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
@@ -673,10 +668,10 @@
 
 # ► Fediverse Tools
 
-* 🌐 **[Awesome Bluesky](https://github.com/notjuliet/awesome-bluesky)** or [BlueskyDirectory](https://blueskydirectory.com/) - Bluesky Resources
+* 🌐 **[Awesome Bluesky](https://github.com/fishttp/awesome-bluesky)** / [2](https://github.com/notjuliet/awesome-bluesky) or [BlueskyDirectory](https://blueskydirectory.com/) - Bluesky Resources
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Post Sync](https://github.com/louisgrasset/touitomamout)
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Post Sync](https://github.com/louisgrasset/touitomamout) / [Dashboard](https://deck.blue/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search
@@ -779,6 +774,7 @@
 * [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
 * [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
 * [sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k.co](https://arch.b4k.co/), [Palanq.win](https://archive.palanq.win/), [Desuarchive](https://desuarchive.org/), [Archived.Moe](https://archived.moe/) or [The /b/ Archive](https://thebarchive.com/) - Misc 4chan Archives
+
 ***
 
 # ► Blogging Tools

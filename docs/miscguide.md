@@ -53,7 +53,6 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [Free For Life](https://github.com/wdhdev/free-for-life/) - Tool Index
 * [OSS Insight](https://ossinsight.io/) or [Open Source Heroes](https://opensource-heroes.com/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -184,7 +183,7 @@
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android) 
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
-* [ioBroker ](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
+* [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -899,7 +898,6 @@
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
   
-
 ***
 
 ## ▷ Crypto / Bitcoin
@@ -1071,7 +1069,7 @@
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
-* [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
+* [Make it Yourself](https://makeityourself.org/) / [Video](https://youtu.be/TSFJ2OH1PQA) or [Make:](https://makezine.com/) - DIY Projects
 * [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
@@ -1128,6 +1126,9 @@
 * [⁠Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
+* [MajorGeeks Tools](https://tools.majorgeeks.com/) -  Social Media / Text / Image / Code
+* [FreeTools](https://www.freetools.one/) - Social Media / Text / Code
+* [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
 * [onlinetools](https://onlinetools.com/) - File Specific Tools
@@ -1197,7 +1198,7 @@
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/), [Macintosh Cafe](https://forum.agoraroad.com/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
-* ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
+* ⭐ **[Your World of Text](https://www.yourworldoftext.com/)** - Infinite Community Text Grid
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying  Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [Pithee](https://pithee.com/) - Rank Shitposting
@@ -1454,13 +1455,14 @@
 * [BogLeech](https://bogleech.com/) - Monster Design Reviews
 * [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Lego Building Software
 * [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - Free Projects / Crafts
+* [cholyknight](https://cholyknight.com/) - Free Sewing Patterns for Plushies / Wearables
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
-* [Chirper](https://chirper.ai/) - AI Generated Twitter
+* [Chirper](https://chirper.ai/) - AI Generated X.com
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
@@ -1505,7 +1507,8 @@
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites 
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites
-* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites 
+* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
+* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites 
 * [The Forest](https://theforest.link/) - Find Random Sites 
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites 
 * [Random-Website](https://random-website.com/) - Find Random Sites 

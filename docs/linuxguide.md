@@ -78,7 +78,7 @@
 * [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
 * [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
-* [NetBoot](https://netboot.xyz/) - Distro Installer
+* [NetBoot](https://netboot.xyz/) - Boot Linux Distros
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
@@ -180,10 +180,10 @@
 
 ## ▷ Software Sites
 
-* 🌐 **[Rim's Linux Wiki](https://rlw.pages.dev/)**, [2](https://rimswiki.xyz/) - Linux Software / 
-Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
+* 🌐 **[Rim's Linux Wiki](https://rlw.pages.dev/)**, [2](https://rimswiki.xyz/) - Linux Software / Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** - Linux Software / Site Index
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Software Index
+* 🌐 **[FOSS Software Packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - FOSS Software Packages Index
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
@@ -270,7 +270,6 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 ## ▷ Linux Images
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** - Image to Text / [GitHub](https://github.com/TenderOwl/Frog/)
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -286,7 +285,6 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 ## ▷ Linux Gaming
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
-Linux Gaming Guide
 * 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility
 * ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
@@ -295,8 +293,7 @@ Linux Gaming Guide
 * ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
-* ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://gitlab.com/jc141x/portal)
-* [⁠Melroy Games](https://games.melroy.org/) - Linux Games
+* ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
 * [linuxgames](https://rentry.co/FMHYBase64#linux-games) - Linux Games
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
@@ -360,12 +357,13 @@ Linux Gaming Guide
 * [wireguird](https://github.com/UnnoTed/wireguird) - Wireguard GTK GUI
 * [Netbird](https://github.com/netbirdio/netbird) or [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
+* [⁠USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://owerdogan.github.io/whoami-project) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
 * [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
-* [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
+* [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing Tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
@@ -389,7 +387,7 @@ Linux Gaming Guide
 * [gopass](https://www.gopass.pw/) - CLI Password Manager
 * [KGet](https://apps.kde.org/kget/), [Varia](https://github.com/giantpinkrobots/varia) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Managers
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
-* [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive
+* [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
 * [maestral](https://maestral.app/) - Dropbox Client
 * [SeaFile](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
@@ -541,6 +539,7 @@ Linux Gaming Guide
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
+* [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
@@ -581,8 +580,7 @@ Linux Gaming Guide
 * [KeePassXC](https://keepassxc.org/download/#macos) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) - iMessage Client
-* [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
-* [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/) or [⁠Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) or [Tachimanga](https://tachimanga.app/) / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
@@ -686,7 +684,6 @@ Linux Gaming Guide
 * 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
-* [AppsTorrent](https://appstorrent.ru/)
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
