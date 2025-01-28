@@ -548,12 +548,9 @@
 
 ***
 
-## Internet Archive Tools
+## Instagram Viewers / Downloaders
 
-* [arch1ve](https://rentry.org/arch1ve) - IA Book Ripping Guide
-* [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books to PDF
-* [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
-* [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
+[Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/),  [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
 
 ***
 
