@@ -222,6 +222,16 @@
 
 ***
 
+## Chrome Tab Tools
+
+* [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
+* [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
+* [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
+* [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
+* [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
+
+***
+
 ## CSS Framework Tools
 
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
@@ -936,20 +946,6 @@
 * [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
 
 [yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](http://receivesmsonline.in/), [freereceivesmsonline](http://freereceivesmsonline.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.cc/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
-
-***
-
-## Speed Test Sites
-
-* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
-* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
-* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
-* [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
-* [Packet Loss Test](https://packetlosstest.com/) - Speed Test
-* [Speedtest](https://www.speedtest.net/) - Speed Test
-* [speedcheck](https://www.speedcheck.org/) - Speed Test
-* [Meter](https://www.meter.net/) - Speed Test
-* [Speedsmart](https://speedsmart.net/) - Speed Test
 
 ***
 

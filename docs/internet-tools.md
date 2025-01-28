@@ -19,7 +19,6 @@
 
 ## ▷ Network Tools
 
-* ↪️ **[Speed Test Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_speed_test_sites)**
 * [Pinging](https://www.pinging.net/) or [PingTracer](https://github.com/bp2008/pingtracer) - Internet Uptime / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
@@ -43,22 +42,32 @@
 
 ***
 
-## ▷ Download Managers
+## ▷ Speed Test Sites
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Apps](https://my.jdownloader.org/apps/)
-* ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
-* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
-* [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
-* [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / Updated Motrix Fork
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
-* [pyLoad](https://pyload.net/) - Lightweight Download Manager
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager / [GitHub](https://github.com/pyload/pyload)
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [File Centipede](https://filecxx.com/) - Upload / Download Manager
-* [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
-* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
-* [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
-* [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
+* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
+* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
+* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
+* [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
+* [Packet Loss Test](https://packetlosstest.com/) - Speed Test
+* [Speedtest](https://www.speedtest.net/) - Speed Test
+* [speedcheck](https://www.speedcheck.org/) - Speed Test
+* [Meter](https://www.meter.net/) - Speed Test
+* [Speedsmart](https://speedsmart.net/) - Speed Test
+
+***
+
+## ▷ Password Managers
+
+* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
+* ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
+* ⭐ **[Bitwarden](https://bitwarden.com/)**
+* ⭐ **[Proton Pass](https://proton.me/pass)**
+* [Pashword](https://pashword.app/)
+* [LessPass](https://lesspass.com/)
+* [Buttercup](https://buttercup.pw/)
+* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
+* [Spectre](https://spectre.app/)
+* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 
 ***
 
@@ -401,23 +410,10 @@
 * [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
 * [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
 * [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
-* [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [emojied](https://emojied.net/) - Emoji URL Shortener
 * [Suri](https://github.com/jstayton/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
-***
-
-## ▷ URL Unshorteners
-
-* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
-* ⭐ **[urlex](https://urlex.org/)**
-* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
-* [Unshorten.it](https://unshorten.it/)
-* [ExpandURL](https://www.expandurl.net/)
-* [WhereGoes](https://wheregoes.com/)
-* [unshorten](https://unshorten.me/)
-* [linkunshorten](https://linkunshorten.com/)
 
 ***
 
@@ -592,12 +588,12 @@
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
 * [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Duplicate Bookmarks (Chrome)
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
+* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
+* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
 * [Bookmarkify](https://bookmarkify.it/) - Create JS Bookmarklets
 * [Get Bookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
 * [export-edge-collections](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert MS Edge Collections to Bookmarks
-* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
-* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 
 ***
 
@@ -628,6 +624,9 @@
 
 ## ▷ Tab Tools
 
+* ↪️ **[Chrome Tab Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chrome_tab_tools)**
+* ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Firefox Tab Tools
+* [Search Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Firefox Multi-Tab Word Search
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
@@ -809,7 +808,6 @@
 ## ▷ Firefox Extensions
 
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)** - Firefox Addon Store
-* ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
@@ -817,7 +815,6 @@
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
-* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
@@ -843,11 +840,6 @@
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
-* [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
-* [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
-* [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
-* [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
-* [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once

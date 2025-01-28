@@ -236,6 +236,7 @@
 ## ▷ Password Privacy / 2FA
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
+* ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
 * ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA / [GitHub](https://github.com/beemdevelopment/Aegis)
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA / [GitHub](https://github.com/stratumauth/app)
@@ -259,21 +260,6 @@
 * [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
 * [psbdmp](https://psbdmp.ws/) - Password Breach Check
 * [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
-
-***
-
-## ▷ Password Managers
-
-* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
-* ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
-* ⭐ **[Bitwarden](https://bitwarden.com/)**
-* ⭐ **[Proton Pass](https://proton.me/pass)**
-* [Pashword](https://pashword.app/)
-* [LessPass](https://lesspass.com/)
-* [Buttercup](https://buttercup.pw/)
-* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
-* [Spectre](https://spectre.app/)
-* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 
 ***
 
